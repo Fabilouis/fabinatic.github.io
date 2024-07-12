@@ -1,0 +1,125 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.bg-verde{
+    background-color: #28A745;
+}
+.navbar-brand{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.cantainer{
+    margin: 0%;
+    padding: 1rem;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.p1{ 
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #28A745;
+    
+}
+.p2{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #28A745;
+}
+.p3{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #28A745;
+}
+.p4{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #28A745;
+}
+.p5{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #28A745;
+}
+.p6{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #28A745;
+}
+.card-text{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+}
+
+.texto{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #707070;
+}
+.icono{
+    display: flex;
+    justify-content:flex-start;
+    margin: 0%;
+    padding: 1rem;
+}
+.Contactanos{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.botton{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.d-flex{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: bold;
+}
+
+
+h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+.p7{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #707070
+}
